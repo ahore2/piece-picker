@@ -1,0 +1,1 @@
+Place the SAM2 tiny model here. Available [here](https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_tiny.pt).

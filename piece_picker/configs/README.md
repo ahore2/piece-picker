@@ -1,0 +1,1 @@
+Place the SAM2 configs here. Available [here](https://github.com/facebookresearch/sam2/tree/main/sam2/configs).

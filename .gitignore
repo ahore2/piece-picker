@@ -1,0 +1,31 @@
+# Operating system files
+.DS_Store
+__pycache__/
+Thumbs.db
+
+# Log files
+*.log
+*.tmp
+
+# Compiled source files
+*.class
+*.o
+*.so
+
+# Packages and archives
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Editor and IDE directories/files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files (e.g., swap files)
+*.swp
